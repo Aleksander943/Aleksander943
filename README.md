@@ -2,14 +2,13 @@
 
 **`Desenvolvedor FullStack`**
 
-Desenvolvedor Fullstack Júnior com experiência prática em desenvolvimento front-end no DETRO-RJ.
+Desenvolvedor Full-stack Júnior | Estagiário de Front-end no DETRO-RJ
 
-Atualmente curso Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá e foco meu aprendizado no ecossistema JavaScript.
+Cursando Análise e Desenvolvimento de Sistemas pela Estácio, com foco no ecossistema JavaScript. Atuo como estagiário de desenvolvimento front-end no DETRO-RJ, trabalhando na construção e manutenção de interfaces web.
 
-Trabalho com React, Next.js e Node.js, desenvolvendo aplicações completas com integração entre frontend, backend e banco de dados.
+Tenho experiência com React, Next.js e Node.js, desenvolvendo aplicações full-stack com integração entre front-end, back-end e banco de dados. Participo ativamente do desenvolvimento de projetos reais e também mantenho aplicações próprias publicadas, aplicando boas práticas de código, versionamento com Git e consumo de APIs.
 
-Possuo projetos próprios, incluindo aplicações fullstack publicadas, e estou em constante evolução técnica buscando construir soluções cada vez mais eficientes.
-
+Busco evoluir constantemente como desenvolvedor, aprofundando conhecimentos em arquitetura de aplicações, performance e boas práticas de desenvolvimento.
 ---
 
 ### 🤖 Linguagens e Tecnologias
