@@ -115,7 +115,7 @@ Busco evoluir constantemente como desenvolvedor, aprofundando conhecimentos em a
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="[https://github-readme-stats.vercel.app/api?username=Aleksander943&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-BR&cache_seconds=1800](https://github-readme-stats.vercel.app/api?username=Aleksander943&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-BR&cache_seconds=1800&count_private=true)" 
+    src="https://github-readme-stats.vercel.app/api?username=Aleksander943&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-BR&cache_seconds=1800&count_private=true" 
   />
 
 <img 
