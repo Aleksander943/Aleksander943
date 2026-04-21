@@ -122,7 +122,7 @@ Busco evoluir constantemente como desenvolvedor, aprofundando conhecimentos em a
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksander943&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksander943&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=0" 
   />
 
 </p>
