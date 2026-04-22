@@ -2,13 +2,26 @@
 
 **`Desenvolvedor FullStack`**
 
-Desenvolvedor Full-stack Júnior | Estagiário de Front-end no DETRO-RJ
+Desenvolvedor Full-Stack Júnior | Estagiário de Front-end no DETRO-RJ
 
-Cursando Análise e Desenvolvimento de Sistemas pela Estácio, com foco no ecossistema JavaScript. Atuo como estagiário de desenvolvimento front-end no DETRO-RJ, trabalhando na construção e manutenção de interfaces web.
+Atualmente curso Análise e Desenvolvimento de Sistemas e atuo como estagiário de desenvolvimento front-end no DETRO-RJ, trabalhando na construção e manutenção de interfaces web.
 
-Tenho experiência com React, Next.js e Node.js, desenvolvendo aplicações full-stack com integração entre front-end, back-end e banco de dados. Participo ativamente do desenvolvimento de projetos reais e também mantenho aplicações próprias publicadas, aplicando boas práticas de código, versionamento com Git e consumo de APIs.
+Tenho foco no ecossistema JavaScript e experiência prática no desenvolvimento de aplicações completas utilizando React, Next.js e Node.js, integrando front-end, back-end e banco de dados.
 
-Busco evoluir constantemente como desenvolvedor, aprofundando conhecimentos em arquitetura de aplicações, performance e boas práticas de desenvolvimento.
+Desenvolvo projetos próprios com objetivo de aplicar boas práticas de arquitetura, consumo de APIs, organização de código e versionamento com Git.
+
+Busco evoluir para níveis mais avançados na carreira, aprofundando conhecimentos em arquitetura de software, performance e escalabilidade, com foco em desenvolver aplicações cada vez mais robustas e bem estruturadas.
+---
+
+🚀 Projetos em destaque
+💰 Expense Tracker API
+API REST para controle financeiro, com foco em organização de despesas e receitas.
+Tecnologias: Node.js, Express
+🔗 https://github.com/Aleksander943/expense-tracker-api
+💻 Expense Tracker Frontend
+Interface web para gerenciamento financeiro com integração à API.
+Tecnologias: React, TypeScript
+🔗 https://github.com/Aleksander943/expense-tracker-frontend
 ---
 
 ### 🤖 Linguagens e Tecnologias
