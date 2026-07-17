@@ -54,4 +54,3 @@ Busco evoluir para níveis mais avançados na carreira, aprofundando conheciment
     <img
   src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aleksander943&show_icons=true&theme=tokyonight"
 />
-/>
