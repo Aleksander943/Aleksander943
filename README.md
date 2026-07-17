@@ -49,5 +49,7 @@ Busco evoluir para níveis mais avançados na carreira, aprofundando conheciment
 ### 📊 Estatísticas
 
 <p align="left">
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=Aleksander943&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-BR&count_private=true&&cache_seconds=1900" />
-  <img alt="Top Langs" height="181" src=""/>
+  <img
+height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksander943&layout=compact&langs_count=8&theme=tokyonight"
+/>
