@@ -45,5 +45,5 @@ Marketplace de serviços desenvolvido como aplicação Full Stack, com frontend 
 
 ## 📊 GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Aleksander943&show_icons=true&theme=tokyonight)
+![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=Aleksander943&show_icons=true&theme=tokyonight)
 
